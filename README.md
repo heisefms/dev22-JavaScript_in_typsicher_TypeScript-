@@ -1,2 +1,2 @@
-# dev22-JavaScript_in_typsicher_TypeScript-
-Quellcoder zum Artikel von Jan Hover
+# dev22-JavaScript_in_typsicher_TypeScript
+Quellcode zum Artikel von Jan Hover
